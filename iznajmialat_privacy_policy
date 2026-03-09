@@ -1,0 +1,137 @@
+Privacy Policy – IznajmiAlat
+
+Last updated: 2026
+
+This Privacy Policy explains how the mobile application IznajmiAlat collects, uses, and protects user information.
+
+Owner and Data Controller:
+Stanislav Egonjic
+Email: fixconnecthelp@gmail.com
+Website: https://iznajmialat.com
+
+⸻
+
+1. Information We Collect
+
+The application may collect the following information provided by users:
+	•	Name
+	•	Email address
+	•	Phone number
+	•	Location information
+	•	Profile information
+	•	Tool listings and descriptions
+	•	Photos uploaded by users
+	•	Messages sent through in-app chat
+
+The application may also collect technical data such as:
+	•	Device information
+	•	App usage data
+	•	Crash reports
+	•	Analytics data
+
+⸻
+
+2. Authentication
+
+Users may sign in using:
+	•	Google Sign-In
+	•	Email and password authentication
+
+Authentication is handled through Firebase Authentication.
+
+⸻
+
+3. Location Data
+
+The application may request access to the user’s location in order to:
+	•	show nearby tools
+	•	improve search results
+	•	display relevant listings
+
+Location access is only used with user permission and can be disabled at any time in device settings.
+
+⸻
+
+4. Messaging
+
+The application includes an in-app messaging system that allows users to communicate with each other regarding tool rentals.
+
+Messages are stored securely using Firebase Firestore and transmitted using encrypted HTTPS connections.
+
+⸻
+
+5. Third-Party Services
+
+The application uses the following services:
+	•	Firebase
+	•	Google Analytics
+	•	Google Maps
+
+These services may collect limited data necessary for application functionality and analytics.
+
+⸻
+
+6. Data Sharing
+
+The application does not sell, rent, or trade user personal data to third parties.
+
+User information may only be shared:
+	•	when required by law
+	•	to operate essential services used by the application (Firebase, Google services)
+
+⸻
+
+7. Data Security
+
+User data is protected using industry standard security practices including:
+	•	encrypted connections (HTTPS/TLS)
+	•	secure cloud infrastructure
+	•	authentication and access controls
+
+However, no method of transmission over the internet can be guaranteed to be completely secure.
+
+⸻
+
+8. User Content
+
+Users are responsible for the content they upload, including:
+	•	tool descriptions
+	•	photos
+	•	messages
+	•	contact information
+
+The application reserves the right to remove content that violates platform rules.
+
+⸻
+
+9. Data Retention
+
+User data is stored as long as the account is active or as necessary to provide services.
+
+Users may request deletion of their account and associated data by contacting:
+
+fixconnecthelp@gmail.com
+
+⸻
+
+10. Children’s Privacy
+
+The application is not intended for users under the age of 13.
+We do not knowingly collect personal data from children.
+
+⸻
+
+11. Changes to This Policy
+
+This Privacy Policy may be updated periodically.
+Any changes will be published on the application and website.
+
+⸻
+
+12. Contact
+
+For any privacy related questions or requests:
+
+Stanislav Egonjic
+Email: fixconnecthelp@gmail.com
+Website: https://iznajmialat.com
